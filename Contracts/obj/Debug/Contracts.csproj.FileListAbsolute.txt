@@ -1,0 +1,5 @@
+C:\GitSource\EventfulStoreApp\Contracts\bin\Debug\Contracts.dll
+C:\GitSource\EventfulStoreApp\Contracts\bin\Debug\Contracts.pdb
+C:\GitSource\EventfulStoreApp\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\GitSource\EventfulStoreApp\Contracts\obj\Debug\Contracts.dll
+C:\GitSource\EventfulStoreApp\Contracts\obj\Debug\Contracts.pdb

@@ -1,0 +1,6 @@
+C:\GitSource\EventfulStoreApp\Contracts\Contracts.csproj;neutral
+C:\GitSource\EventfulStoreApp\Contracts\Contracts.csproj;neutral
+C:\GitSource\EventfulStoreApp\Contracts\Contracts.csproj;neutral
+C:\GitSource\EventfulStoreApp\DI\DI.csproj;neutral
+C:\GitSource\EventfulStoreApp\EventfulStoreApp\EventfulStoreApp.csproj;neutral
+C:\GitSource\EventfulStoreApp\Geocoding\Geocoding.csproj;neutral

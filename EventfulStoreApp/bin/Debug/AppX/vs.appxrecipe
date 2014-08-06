@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HYAKUTAKE</Machine>
+    <WindowsUser>Arne</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e7990237-50ef-4713-8964-ce69ef33b187</PackageIdentityName>
+    <IntermediateOutputPath>C:\GitSource\EventfulStoreApp\EventfulStoreApp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A1833A0155726A2E5EA45F77C1BA51085BB93D48507DB0A297F7C2A3B2ACF3DD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e7990237-50ef-4713-8964-ce69ef33b187_1.0.0.0_neutral__m8wncf2xbb140</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e7990237-50ef-4713-8964-ce69ef33b187_m8wncf2xbb140!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e7990237-50ef-4713-8964-ce69ef33b187</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Arne</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-04T23:15:12.939</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\EventfulStoreApp.exe">
+      <PackagePath>EventfulStoreApp.exe</PackagePath>
+      <Modified>2014-08-06T03:46:17.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\Contracts\bin\Debug\Contracts.dll">
+      <PackagePath>Contracts.dll</PackagePath>
+      <Modified>2014-08-04T17:47:13.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\DI\bin\Debug\DI.dll">
+      <PackagePath>DI.dll</PackagePath>
+      <Modified>2014-08-04T23:13:15.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\packages\Portable.Ninject.3.3\lib\win8\Ninject.dll">
+      <PackagePath>Ninject.dll</PackagePath>
+      <Modified>2014-08-04T04:59:36.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\DI\bin\Debug\Geocoding.dll">
+      <PackagePath>Geocoding.dll</PackagePath>
+      <Modified>2014-08-04T23:13:14.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\DI\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-07-27T22:36:22.023</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2014-07-27T18:29:09.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-07-27T18:31:26.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+      <Modified>2014-07-27T18:31:26.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+      <Modified>2014-07-27T18:31:26.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+      <Modified>2014-07-27T18:31:26.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\SearchParameters.xbf">
+      <PackagePath>SearchParameters.xbf</PackagePath>
+      <Modified>2014-08-05T13:34:29.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\EventfulStoreApp.xr.xml">
+      <PackagePath>EventfulStoreApp.xr.xml</PackagePath>
+      <Modified>2014-08-05T13:34:29.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-08-04T23:15:12.709</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

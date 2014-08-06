@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HYAKUTAKE</Machine>
+    <WindowsUser>Arne</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e7990237-50ef-4713-8964-ce69ef33b187</PackageIdentityName>
+    <IntermediateOutputPath>C:\GitSource\EventfulStoreApp\EventfulStoreApp\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\EventfulStoreApp.exe">
+      <PackagePath>EventfulStoreApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\Contracts\bin\Debug\Contracts.dll">
+      <PackagePath>Contracts.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\DI\bin\Debug\DI.dll">
+      <PackagePath>DI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\packages\Portable.Ninject.3.3\lib\win8\Ninject.dll">
+      <PackagePath>Ninject.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\DI\bin\Debug\Geocoding.dll">
+      <PackagePath>Geocoding.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\DI\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\SearchParameters.xbf">
+      <PackagePath>SearchParameters.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\EventfulStoreApp.xr.xml">
+      <PackagePath>EventfulStoreApp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitSource\EventfulStoreApp\EventfulStoreApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
