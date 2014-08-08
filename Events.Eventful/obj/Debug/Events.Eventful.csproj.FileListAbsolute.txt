@@ -1,0 +1,2 @@
+C:\GitSource\EventfulStoreApp\Events.Eventful\obj\Debug\Events.Eventful.csprojResolveAssemblyReference.cache
+C:\GitSource\EventfulStoreApp\Events.Eventful\obj\Debug\Events.Eventful.csproj.App.config

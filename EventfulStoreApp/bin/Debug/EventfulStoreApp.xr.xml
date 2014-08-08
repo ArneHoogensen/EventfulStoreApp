@@ -167,6 +167,7 @@
       <RootProperty Name="AcceptsReturn" />
       <RootProperty Name="RenderTransformOrigin" />
       <RootProperty Name="FontSize" />
+      <RootProperty Name="FontFamily" />
     </RootType>
     <RootType FullName="EventfulStoreApp.SearchParameters" />
   </Roots.RootTypes>

@@ -1,6 +1,6 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-    <LocalAssembly PathName="c:\gitsource\eventfulstoreapp\eventfulstoreapp\obj\debug\intermediatexaml\eventfulstoreapp.exe" HashGuid="9608efa8-0233-89ce-3706-f6614a60f69e" />
+    <LocalAssembly PathName="c:\gitsource\eventfulstoreapp\eventfulstoreapp\obj\debug\intermediatexaml\eventfulstoreapp.exe" HashGuid="955b745d-17a2-b7d1-d877-f45b7ea6c939" />
     <ReferenceAssembly PathName="c:\gitsource\eventfulstoreapp\contracts\bin\debug\contracts.dll" HashGuid="9a65b8b5-e85d-19cf-4424-7bbff124067f" />
     <ReferenceAssembly PathName="c:\gitsource\eventfulstoreapp\di\bin\debug\di.dll" HashGuid="2978822c-7131-3efc-cf54-01180a419a1e" />
     <ReferenceAssembly PathName="c:\gitsource\eventfulstoreapp\packages\portable.ninject.3.3\lib\win8\ninject.dll" HashGuid="425d986c-52e3-7740-ca7e-217cd21da72c" />

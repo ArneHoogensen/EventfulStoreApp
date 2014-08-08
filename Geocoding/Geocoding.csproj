@@ -40,7 +40,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="google\GoogleGeocodeRequest.cs" />
     <Compile Include="google\GoogleGeocodeResult.cs" />
     <Compile Include="google\v3\AddressComponent.cs" />

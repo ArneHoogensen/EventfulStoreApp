@@ -58,12 +58,7 @@ namespace Geocoding.google.v3
                 message.EnsureSuccessStatusCode();
 
                 var response = await message.Content.ReadAsStringAsync();
-                //using (var reader = new StringReader(json))
-                //{
-
-                //    var ser = new Newtonsoft.Json.JsonSerializer();
-                //    return (ser.Deserialize((reader as TextReader), typeof(GeocodeResult)) as GeocodeResult);
-                //}
+                
                 return JsonConvert.DeserializeObject<GeocodeResult>(response);
             }
 

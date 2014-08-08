@@ -46,7 +46,7 @@
             <TextBlock x:Name="pageTitle" Text="{StaticResource AppName}" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
                         IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40"/>
         </Grid>
-        <TextBox IsEnabled="{Binding Path=AddressInputEnabled, Mode=OneWay}" Text="{Binding Path=Address, Mode=TwoWay}" Height="48" HorizontalAlignment="Left" Margin="98,83,0,0" Name="AddressTextBox" VerticalAlignment="Top" Width="582"  AcceptsReturn="True" Grid.Row="1" RenderTransformOrigin="0.198,0.471" FontSize="28" />
+        <TextBox IsEnabled="{Binding Path=AddressInputEnabled, Mode=OneWay}" Text="{Binding Path=Address, Mode=TwoWay}" Height="147" HorizontalAlignment="Left" Margin="98,83,0,0" Name="AddressTextBox" VerticalAlignment="Top" Width="211"  AcceptsReturn="True" Grid.Row="1" RenderTransformOrigin="0.198,0.471" FontSize="28" FontFamily="Global User Interface" />
         <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="104,31,0,0" TextWrapping="Wrap" Text="Address:" VerticalAlignment="Top" Height="43" RenderTransformOrigin="-3.133,-1.096" Grid.Row="1" Width="331" FontSize="28"/>
     </Grid>
